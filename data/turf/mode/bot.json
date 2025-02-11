@@ -1,5 +1,6 @@
 {
-    "requirement": 1,
+    "requirement_min": 1,
+    "requirement_max": 1,
     "startup": 5,
-    "pity": [45, 50]
+    "pity": [0, 0]
 }
