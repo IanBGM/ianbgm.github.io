@@ -1,14 +1,17 @@
 {
-    "private_profile": {
-        "title": "Private Profile",
-        "info": "Your profile will be inaccessible to other players. Nothing will be viewable with this configuration enabled. You can still view your profile, and display it publicly."
-    },
-    "display_badges": {
-        "title": "Display Badges",
-        "info": "The \"Badges\" field will be removed from your profile. They will not be viewable by anyone, not even you. You will still be notified about achieving badges."
-    },
-    "display_wl_ratio": {
-        "title": "Display W/L Ratio",
-        "info": "Your W/L (Win / Loss) ratio will be viewable to other players. They'll be able to see how many battles you've won / lost, including a calculated ratio."
+    "profile":
+    {
+        "private_profile": {
+            "title": "Private Profile",
+            "info": "Your profile will be inaccessible to other players. Nothing will be viewable with this configuration enabled. You can still view your profile, and display it publicly."
+        },
+        "display_badges": {
+            "title": "Display Badges",
+            "info": "The \"Badges\" field will be removed from your profile. They will not be viewable by anyone, not even you. You will still be notified about achieving badges."
+        },
+        "display_wl_ratio": {
+            "title": "Display W/L Ratio",
+            "info": "Your W/L (Win / Loss) ratio will be viewable to other players. They'll be able to see how many battles you've won / lost, including a calculated ratio."
+        }
     }
 }
