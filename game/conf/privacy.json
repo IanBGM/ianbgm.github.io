@@ -7,7 +7,7 @@
         },
         "display_badges": {
             "title": "Display Badges",
-            "info": "The \"Badges\" field will be removed from your profile. They will not be viewable by anyone, not even you. You will still be notified about achieving badges."
+            "info": "The 'Badges' field will be removed from your profile. They will not be viewable by other players. You can still display them publicly, or view them privately."
         },
         "display_wl_ratio": {
             "title": "Display W/L Ratio",
