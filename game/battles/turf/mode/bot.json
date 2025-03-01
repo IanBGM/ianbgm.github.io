@@ -3,5 +3,5 @@
     "requirement_max": 1,
     "startup": 10,
 
-    "info": "This mode will play you against an **automated** player. The difficulty is scaled between based on your level, but not to any high extent."
+    "info": "This mode will play you against an **automated** player. The difficulty (speed) is scaled based on your level, but not to any high extent."
 }
