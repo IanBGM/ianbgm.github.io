@@ -1,0 +1,43 @@
+{
+    "DEFAULT":
+    {
+        "BMC": {
+            "id": 1281734055611596921,
+            "animated": false
+        },
+        "SHRIMP": {
+            "id": 1281734078965485578,
+            "animated": false
+        },
+        "SPLAT": {
+            "id": 1282294036790644746,
+            "animated": false
+        },
+        "JUDD": {
+            "id": 1281791706282463254,
+            "animated": true
+        },
+        "LIL_JUDD": {
+            "id": 1281791718261264476,
+            "animated": true
+        },
+        "INKLING": {
+            "id": 1282285289653665863,
+            "animated": false
+        },
+        "LOADING": {
+            "id": 1282636985768611902,
+            "animated": true
+        },
+        "TURF": {
+            "id": 1339389564875309162,
+            "animated": false
+        }
+    },
+    
+    "BADGES":
+    {
+        "CLOSED_ALPHA": {},
+        "THOUSAND_SHRIMP": {}
+    }
+}

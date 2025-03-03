@@ -2,6 +2,5 @@
     "requirement_min": 2,
     "requirement_max": 3,
     "startup": 20,
-
     "info": "The default game play for Turf War. You can play with up to three people at once."
 }
