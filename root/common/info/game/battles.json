@@ -1,0 +1,6 @@
+{
+    "TURF": {
+        "HOW_TO_PLAY": "> *To play this game after pre-startup*, it's as simple as just *clicking the buttons* that appear to recolor them! Whoever has the *most recolored buttons* in their chosen color when the match ends will win!",
+        "INTERACTION_FAILED": "> *In any time of which you see a message along the lines of `interaction failed`*, it does not mean you can't keep going! This can happen if you click the buttons too quickly but the game should still work in general.\n> *If you're having **too much trouble / or cannot play the game** at all*, consider making a bug report with details just in case it's something that needs to be fixed!"
+    }
+}
