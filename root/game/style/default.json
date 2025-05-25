@@ -1,14 +1,14 @@
 [
     {
         "style": 1,
-        "emoji": "🟪"
+        "emoji": ["🟪", "🟩"]
     },
     {
         "style": 3,
-        "emoji": "🟡"
+        "emoji": ["🟡", "🔵"]
     },
     {
         "style": 4,
-        "emoji": "🔶"
+        "emoji": ["🔲", "🔳"]
     }
 ]
