@@ -1,0 +1,23 @@
+[
+    {
+        "id": "splattershot",
+        "type": 0,
+        "emoji": 1234,
+        "name": "Splattershot",
+        "description": "Developed after the Great Turf War, this weapon is easy enough for anyone to use. A great all-rounder with few weak points. A trusty companion through thick and thin."
+    },
+    {
+        "id": "test_collectible",
+        "type": 1,
+        "emoji": 4567,
+        "name": "Test Collectible",
+        "description": "This is a test collectible."
+    },
+    {
+        "id": "safe_card",
+        "type": 2,
+        "emoji": 78910,
+        "name": "Casino Safe Card",
+        "description": "A delicate, glistening, holographic card. It's tinted with a touch of thrill. A card of which guarantees safety in the event of a loss at Ji'ki's Casino."
+    }
+]

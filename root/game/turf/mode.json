@@ -1,0 +1,30 @@
+{
+    "bot": 
+    {
+        "requirement_min": 1,
+        "requirement_max": 1,
+        "startup": 10,
+        "info": ""
+    },
+    "default": 
+    {
+        "requirement_min": 2,
+        "requirement_max": 3,
+        "startup": 20,
+        "info": ""
+    },
+    "friendly": 
+    {
+        "requirement_min": 2,
+        "requirement_max": 4,
+        "startup": 20,
+        "info": ""
+    },
+    "team": 
+    {
+        "requirement_min": 4,
+        "requirement_max": 6,
+        "startup": 30,
+        "info": ""
+    }
+}

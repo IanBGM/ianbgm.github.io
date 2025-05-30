@@ -1,0 +1,30 @@
+[
+    {
+        "id": "ach_alpha_phase",
+        "type": 0,
+        "emoji": 1234,
+        "name": "In the beginning...",
+        "description": "Participated in the `2025 Alpha` phase of Big Man."
+    },
+    {
+        "id": "ach_first_win",
+        "type": 1,
+        "emoji": 4567,
+        "name": "You've played these games before.",
+        "description": "Place first place in a Turf War match for the very first time."
+    },
+    {
+        "id": "ach_max_level",
+        "type": 1,
+        "emoji": 78910,
+        "name": "To the MAX!",
+        "description": "Reach the max level."
+    },
+    {
+        "id": "ach_first_bet",
+        "type": 1,
+        "emoji": 10111213,
+        "name": "Welcome to the Casino!",
+        "description": "Placed your first bet at Ji'ki's Casino."
+    }
+]
