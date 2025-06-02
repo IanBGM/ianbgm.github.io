@@ -19,12 +19,5 @@
         "emoji": 78910,
         "name": "To the MAX!",
         "description": "Reach the max level."
-    },
-    {
-        "id": "ach_first_bet",
-        "type": 1,
-        "emoji": 10111213,
-        "name": "Welcome to the Casino!",
-        "description": "Placed your first bet at Ji'ki's Casino."
     }
 ]

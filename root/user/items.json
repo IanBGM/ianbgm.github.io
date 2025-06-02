@@ -14,10 +14,10 @@
         "description": "This is a test collectible."
     },
     {
-        "id": "safe_card",
+        "id": "house_safe_card",
         "type": 2,
         "emoji": 78910,
-        "name": "Casino Safe Card",
-        "description": "A delicate, glistening, holographic card. It's tinted with a touch of thrill. A card of which guarantees safety in the event of a loss at Ji'ki's Casino."
+        "name": "House Safe Card",
+        "description": "A delicate, glistening holographic card. It's tinted with a touch of thrill. A card of which guarantees safety in the event of a loss at House Ji'ki."
     }
 ]

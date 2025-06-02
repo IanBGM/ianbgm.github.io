@@ -1,0 +1,22 @@
+{
+    "grey": 
+    {
+        "style": 2,
+        "emoji": "⚫"
+    },
+    "red":
+    {
+        "style": 4,
+        "emoji": "⚪"
+    },
+    "green": 
+    {
+        "style": 3,
+        "emoji": null
+    },
+    "heart": 
+    {
+        "style": 1,
+        "emoji": "💓"
+    }
+}
